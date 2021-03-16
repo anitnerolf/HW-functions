@@ -91,9 +91,20 @@
 // n2 = parseInt(prompt("Write second number: "));
 // printPerfectNumbers(n1, n2);
 
+//Detyra7
 
+// function printTime(hour, minutes, seconds) {
+//     if (Number.isNaN(seconds))
+//         return hour + ":" + minutes + ":00";
+//     else
+//         return hour + ":" + minutes + ":" + seconds;
+// }
 
+// hour = parseInt(prompt("Write hour: "));
+// minutes = parseInt(prompt("Write minutes: "));
+// seconds = parseInt(prompt("Write seconds: "));
 
+// console.log(printTime(hour, minutes, seconds));
 
 
 
