@@ -106,9 +106,35 @@
 
 // console.log(printTime(hour, minutes, seconds));
 
+//Detyra8
+
+// function getSeconds(hour, minutes, seconds) {
+//     let h = hour * 3600;
+//     let min = minutes * 60;
+//     let result = parseInt(h) + parseInt(min) + seconds;
+//     return result;
+// }
 
 
+// hour = parseInt(prompt("Write hour: "));
+// minutes = parseInt(prompt("Write minutes: "));
+// seconds = parseInt(prompt("Write seconds: "));
 
+// console.log(getSeconds(hour, minutes, seconds));
+
+//Detyra9
+
+// function getTime(seconds) {
+//     let h = parseInt(seconds / 3600);
+//     let min = parseInt((seconds % 3600) / 60);
+//     let sec = (seconds % 3600) % 60;
+//     let result = h + ":" + min + ":" + sec;
+//     return result;
+// }
+
+// seconds = parseInt(prompt("Write seconds: "));
+
+// console.log(getTime(seconds));
 
 
 
