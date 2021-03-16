@@ -74,3 +74,30 @@
 // }
 
 // console.log(checkIfPerfect(parseInt(prompt("Write a number:"))));
+
+
+//Detyra6
+
+// function printPerfectNumbers(n1, n2) {
+//     while (n1 <= n2) {
+//         if (checkIfPerfect(n1) == true) {
+//             console.log(n1);
+//         }
+//         n1++;
+//     }
+// }
+
+// n1 = parseInt(prompt("Write first number: "));
+// n2 = parseInt(prompt("Write second number: "));
+// printPerfectNumbers(n1, n2);
+
+
+
+
+
+
+
+
+
+
+
